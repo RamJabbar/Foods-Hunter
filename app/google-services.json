@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "37271835419",
+    "project_id": "foodshunter-a9a7d",
+    "storage_bucket": "foodshunter-a9a7d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37271835419:android:230d2b15d0bdcbb4d0f9be",
+        "android_client_info": {
+          "package_name": "com.example.fooddeliveryapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4u-HQ0vuac5NvNaUoq7kQQMohZjhCzm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37271835419:android:93cf9ea1d3e07371d0f9be",
+        "android_client_info": {
+          "package_name": "com.example.foodshunter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4u-HQ0vuac5NvNaUoq7kQQMohZjhCzm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
