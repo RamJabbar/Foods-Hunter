@@ -20,15 +20,15 @@ import org.osmdroid.util.GeoPoint
 import org.osmdroid.views.MapView
 import org.osmdroid.views.overlay.Marker
 
-@Preview(showBackground = true, showSystemUi = true)
-@Composable
-fun RestaurantMapViewPreview(){
-    RestaurantMapView(
-        latitude = 37.7749,
-        longitude = -122.4194,
-        restaurantName = "Sate Nusantara"
-    )
-}
+//@Preview(showBackground = true, showSystemUi = true)
+//@Composable
+//fun RestaurantMapViewPreview(){
+//    RestaurantMapView(
+//        latitude = 37.7749,
+//        longitude = -122.4194,
+//        restaurantName = "Sate Nusantara"
+//    )
+//}
 
 
 @Composable
