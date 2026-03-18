@@ -32,6 +32,7 @@ import com.example.foodshunter.ui.components.MenuItemCard
 import com.example.foodshunter.ui.components.RestaurantMapView
 import com.example.foodshunter.ui.theme.HijauMenengahTua
 import com.example.foodshunter.ui.theme.HijauTua
+import com.example.foodshunter.ui.theme.Oren
 import com.google.android.gms.location.LocationServices
 
 @OptIn(ExperimentalMaterial3Api::class)
@@ -298,7 +299,7 @@ fun RestaurantDetailScreen(
                                     Icon(
                                         imageVector = Icons.Default.Star,
                                         contentDescription = "Rating",
-                                        tint = MaterialTheme.colorScheme.primary,
+                                        tint = Oren,
                                         modifier = Modifier.size(20.dp)
                                     )
                                     Spacer(modifier = Modifier.width(4.dp))
